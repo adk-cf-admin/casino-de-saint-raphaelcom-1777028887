@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#2e2e2e",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#FAA500",
+            "text-head": "#000000",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FAA500",
+            "yellow": "#ffffff",
+            "yellow-button": "#FAA500",
+            "button-text": "#000000",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#000000",
+            "bonus-border": "#ffffff",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#000000",
+            "copyright": "#e7e7d5",
+            "starColor": "#FAA500",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6786"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6787",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Barrière Saint-Raphaël Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6788",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Barrière Saint-Raphaël"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Barrière Saint-Raphaël",
+                    "title": "Casino Barrière Saint-Raphaël — Jeux & Ambiance Côte d'Azur",
+                    "description": "Jouez au Casino Barrière Saint-Raphaël sur la Côte d'Azur. 175 machines à sous, roulette, blackjack, jackpots 40 000€+. Vue mer, restaurant. Entrée gratuite !",
+                    "canonical": "casino-de-saint-raphael.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6789",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-de-saint-raphael.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6790"
+                },
+                "hero": {
+                    "title": "Le Casino Incontournable de Saint-Raphaël, Côte d'Azur",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6791",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6792",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "À la recherche d'un casino premium sur la Côte d'Azur ? Nous accueillons nos visiteurs 7j\/7 dans un cadre exceptionnel face au vieux-port de Saint-Raphaël. Découvrez nos atouts :",
+                    "items": [
+                        "À la recherche d'un casino premium sur la Côte d'Azur ? Nous accueillons nos visiteurs 7j\/7 dans un cadre exceptionnel face au vieux-port de Saint-Raphaël. Découvrez nos atouts :",
+                        "6 jackpots progressifs avec gains supérieurs à 40 000€",
+                        "5 tables de jeux : roulette anglaise, blackjack, boule, poker",
+                        "Café Barrière avec terrasse panoramique face au port de Saint-Raphaël",
+                        "Ouvert 7j\/7 de 09h à 03h (jusqu'à 04h vendredi et samedi)",
+                        "Entrée gratuite sur présentation d'une pièce d'identité valide"
+                    ],
+                    "advantagesAfterText": "Rejoignez des milliers de visiteurs de la Côte d'Azur qui choisissent notre établissement pour une soirée inoubliable. Notre équipe est à votre service 7j\/7 au +33 (0)4 98 111 777.",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Barrière Saint-Raphaël App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6793",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Barrière Saint-Raphaël App",
+                    "mobileGooglePlayImageTitle": "Barrière Saint-Raphaël App",
+                    "mobileIosImageTitle": "Barrière Saint-Raphaël App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "Notre Histoire à Saint-Raphaël",
+                        "description1": "Situé en plein cœur de Saint-Raphaël face au vieux-port, notre casino est un monument emblématique de la Côte d'Azur. Sous l'enseigne Barrière, nous offrons un divertissement premium alliant jeux, gastronomie et vue mer exceptionnelle.",
+                        "items": [
+                            "Fondation du Grand Casino de Saint-Raphaël en 1881",
+                            "Rénovations multiples pour moderniser l'expérience de jeu",
+                            "Intégration au réseau Barrière, leader des casinos en France",
+                            "Ouverture du Café Barrière avec terrasse vue sur le port"
+                        ],
+                        "description2": "Nous opérons sous la réglementation stricte des jeux en France, garantissant équité et transparence. Toutes nos machines sont certifiées et nos jeux de table supervisés. La sécurité et le fair-play sont au cœur de notre engagement.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6794",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Nous continuons d'évoluer pour offrir les meilleures expériences de jeu sur la Côte d'Azur. Notre engagement envers le jeu responsable reste notre priorité absolue. Venez nous rendre visite à Saint-Raphaël !"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Jeux & Machines à Sous à Saint-Raphaël",
+                        "description": "<h2>Notre Espace de Jeux au Casino Barrière de Saint-Raphaël, Côte d'Azur<\/h2>\n\n<p>Bienvenue dans l'un des établissements de jeux les plus emblématiques de la Côte d'Azur. Notre casino propose une expérience de divertissement complète, alliant des machines à sous de dernière génération à des jeux de table classiques, le tout dans un cadre élégant face au vieux-port de Saint-Raphaël. Que vous soyez un joueur expérimenté ou un visiteur curieux, notre salle de jeux certifiée vous accueille 7j\/7 dans une atmosphère feutrée et conviviale, digne de la Riviera française. Chaque visite est unique grâce à nos jackpots progressifs en constante évolution et à nos soirées thématiques.<\/p>\n\n<h3>175 Machines à Sous Dernière Génération<\/h3>\n\n<p>Notre salle de gaming réunit 175 machines à sous modernes, incluant des rouleaux vidéo, des rouleaux traditionnels et des video poker, tous certifiés et régulièrement audités. Les mises démarrent à partir de 0,10€ seulement, rendant l'accès au divertissement possible pour tous les budgets à Saint-Raphaël. Nos équipements sont issus des meilleurs fabricants du secteur gaming terrestre, offrant des graphismes haute définition, des animations immersives et des fonctionnalités bonus avancées. Chaque machine est soumise à des contrôles rigoureux conformément à la réglementation française des jeux, garantissant des résultats aléatoires certifiés et un taux de retour joueur (RTP) optimal.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Rouleaux vidéo modernes :<\/strong> Des dizaines de thèmes différents — aventure, mythologie, fruits classiques, Côte d'Azur — avec des fonctionnalités bonus comme les tours gratuits, les wilds expansifs et les multiplicateurs jusqu'à 500x.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Poker certifié :<\/strong> Jouez au Jacks or Better, Double Double Bonus, Deuces Wild et autres variantes avec des RTP parmi les meilleurs du marché terrestre, atteignant 99,5% sur certaines configurations optimales.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Rouleaux classiques :<\/strong> Pour les amateurs de tradition, nos machines à rouleaux mécaniques offrent une expérience authentique dans la continuité de l'histoire de notre casino fondé en 1881 à Saint-Raphaël.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mises flexibles :<\/strong> De 0,10€ à plusieurs euros par spin, nos machines s'adaptent à tous les profils de joueurs, des débutants aux habitués de notre établissement varois.<\/li>\n<\/ul>\n\n<h3>6 Jackpots Progressifs — Remportez Plus de 40 000€<\/h3>\n\n<p>L'une des attractions majeures de notre casino à Saint-Raphaël réside dans nos 6 jackpots progressifs, dont certains atteignent régulièrement des montants supérieurs à 40 000€. Ces jackpots s'accumulent en temps réel, affichés en salle pour créer une atmosphère de suspense incomparable sur la Côte d'Azur. Chaque mise sur les machines éligibles contribue à faire grossir la cagnotte, et n'importe quel visiteur peut devenir le prochain grand gagnant lors de sa soirée à Saint-Raphaël. Nos jackpots progressifs sont certifiés par les autorités de contrôle françaises, assurant une transparence totale sur les mécanismes de déclenchement.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpots liés en réseau :<\/strong> Certains de nos jackpots progressifs sont connectés à un réseau multi-établissements, permettant des cagnottes plus importantes qui se renouvellent rapidement après chaque gain.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpots locaux :<\/strong> D'autres jackpots sont propres à notre salle de Saint-Raphaël, avec des gains plus fréquents et une progression visible en temps réel sur les écrans de l'établissement.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Éligibilité large :<\/strong> La plupart des machines à sous de notre casino participent à l'un de nos 6 jackpots progressifs, vous offrant une chance supplémentaire de remporter un gain exceptionnel à chaque visite sur la Côte d'Azur.<\/li>\n<\/ul>\n\n<h3>Nos Jeux de Table : Roulette, Blackjack, Boule et Poker<\/h3>\n\n<p>Notre espace jeux de table accueille les amateurs de jeux classiques dans une ambiance sophistiquée, typique des grands casinos de la Riviera française. Nos 5 tables de jeux proposent un panel complet des incontournables du gaming terrestre, supervisées par des croupiers professionnels formés aux plus hauts standards du groupe Barrière. Les tables ouvrent chaque soir à 21h, créant une atmosphère premium pour vos soirées à Saint-Raphaël. Que vous maîtrisiez les stratégies avancées ou que vous découvriez l'univers du jeu de table, nos croupiers expérimentés vous guideront avec professionnalisme.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Anglaise :<\/strong> Le classique des casinos, disponible sur plusieurs tables avec des mises minimum accessibles. Notre roulette anglaise offre tous les paris traditionnels — plein, cheval, carré, douzaine, couleur — dans un cadre élégant typique de la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack :<\/strong> Affrontez le croupier sur nos tables de blackjack où la stratégie fait toute la différence. Avec un RTP théorique pouvant dépasser 99% en stratégie optimale, le blackjack reste l'un des jeux les plus favorables du casino de Saint-Raphaël.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>La Boule :<\/strong> Jeu traditionnel français par excellence, la boule est une spécialité que nous sommes fiers de proposer à Saint-Raphaël. Ce jeu emblématique des casinos français offre une expérience authentique avec des règles simples et accessibles à tous.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Texas Ultimate Poker :<\/strong> Notre table de poker propose le Texas Ultimate Poker, une version casino du célèbre Texas Hold'em qui vous oppose au croupier plutôt qu'aux autres joueurs. Idéal pour les amateurs de poker souhaitant une expérience détendue sur la Riviera française.<\/li>\n<\/ul>\n\n<h3>Comment Accéder à Nos Jeux à Saint-Raphaël ?<\/h3>\n\n<p>L'accès à notre casino de Saint-Raphaël est entièrement gratuit pour tous les visiteurs majeurs. Vous devez simplement vous présenter avec une pièce d'identité valide (Carte Nationale d'Identité ou Passeport) pour profiter de l'ensemble de nos espaces de jeux. Les clients fidèles peuvent également présenter leur carte de fidélité Barrière, qui leur ouvre des avantages exclusifs et des offres personnalisées. Pour toute question sur les conditions d'accès, notre équipe est joignable au +33 (0)4 98 111 777.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #f5a623;\">\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Jeu<\/th>\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Type<\/th>\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Mise min.<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Machines à sous<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">175 appareils<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">€0,10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Roulette Anglaise<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Table de jeu<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">€2<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Table de jeu<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">€5<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>La Boule<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Jeu français<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">€2<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Texas Ultimate Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Table de poker<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">€5<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Jackpot Progressif<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">6 jackpots<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">€40 000+<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Jeu Responsable : Notre Engagement à Saint-Raphaël<\/h3>\n\n<p>Nous croyons fermement que le jeu doit rester un loisir plaisant et maîtrisé. En tant qu'établissement agréé en France sous la réglementation de l'Autorité Nationale des Jeux (ANJ), nous mettons en place des mesures concrètes pour prévenir les comportements problématiques. L'accès à notre casino de Saint-Raphaël est strictement réservé aux personnes majeures (18 ans et un jour minimum), et notre personnel est formé pour détecter et accompagner les joueurs qui pourraient en avoir besoin. Nous proposons des outils d'auto-exclusion et d'information sur le jeu responsable, en partenariat avec les organismes nationaux de prévention. Votre bien-être est notre priorité sur la Côte d'Azur.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Contrôle d'accès rigoureux :<\/strong> Vérification systématique de l'âge et de l'identité à l'entrée de nos espaces de jeux, avec présentation obligatoire d'une pièce d'identité valide (CNI ou Passeport).<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Auto-exclusion volontaire :<\/strong> Tout joueur peut demander une interdiction volontaire de casino auprès de notre accueil, une mesure protectrice qui s'applique à l'ensemble des établissements de jeux en France.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Interdits de jeux :<\/strong> Conformément à la loi française, les personnes interdites de casinos (qu'il s'agisse d'une décision judiciaire ou d'une auto-exclusion) ne peuvent pas accéder à nos salles de jeux de Saint-Raphaël.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Personnel formé :<\/strong> Notre équipe reçoit régulièrement des formations spécialisées sur la détection et la prévention de l'addiction au jeu, en conformité avec les standards du groupe Barrière et de l'ANJ.<\/li>\n<\/ul>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Café Barrière & Expérience Saint-Raphaël",
+                        "description": "<h2>L'Expérience Complète au Casino Barrière de Saint-Raphaël<\/h2>\n\n<p>Notre établissement ne se résume pas à un simple casino : c'est une destination d'expérience à part entière sur la Côte d'Azur. Entre les jeux, la gastronomie, les événements thématiques et la vue imprenable sur le vieux-port de Saint-Raphaël, nous offrons une soirée mémorable à chacun de nos visiteurs. Situé dans un bâtiment historique fondé en 1881, le Casino Barrière de Saint-Raphaël allie charme Belle Époque et modernité, créant une atmosphère unique dans le Var. Que vous veniez pour tenter votre chance aux machines à sous, dîner en amoureux au Café Barrière ou assister à l'un de nos événements spéciaux, notre équipe dévouée est présente pour sublimer chaque instant passé dans notre établissement provençal.<\/p>\n\n<h3>Le Café Barrière : Gastronomie Face au Port de Saint-Raphaël<\/h3>\n\n<p>Notre restaurant phare, le Café Barrière, est bien plus qu'une simple pause entre deux parties. Profitez d'une vue panoramique époustouflante sur le vieux-port de Saint-Raphaël et la Méditerranée, dans une salle lumineuse avec véranda intérieure ou sur notre terrasse en plein air. Nous proposons des buffets gourmands colorés et une carte soigneusement élaborée pour le déjeuner et le dîner, avec des produits de saison typiques de la Provence. Le Café Barrière est ouvert à tous, familles, couples et groupes, y compris aux visiteurs ne souhaitant pas jouer, dans un esprit de convivialité qui fait la réputation de la Côte d'Azur.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Déjeuner :<\/strong> Service du lundi au dimanche de 12h à 14h, avec buffets gourmands et plats à la carte inspirés de la cuisine provençale et méditerranéenne. Un moment de détente idéal avant ou après une visite du vieux-port de Saint-Raphaël.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Dîner :<\/strong> Ouverture tous les soirs de 19h30 à 22h (jusqu'à 22h30 les vendredis, samedis et veilles de jours fériés). La terrasse face à la mer offre un cadre romantique et inoubliable sur la Riviera française.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Privatisation de groupe :<\/strong> Notre restaurant peut accueillir jusqu'à 170 personnes en formule dîner et jusqu'à 200 personnes en cocktail. Idéal pour vos séminaires, mariages, anniversaires et événements d'entreprise sur la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bar Café Barrière :<\/strong> Notre bar propose une carte de boissons variée, avec cocktails, vins de Provence, bières artisanales et softs. Climatisé, équipé du Wi-Fi gratuit et d'écrans géants pour les retransmissions sportives, il est parfait pour un moment de détente à Saint-Raphaël.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Accessibilité :<\/strong> Notre établissement est entièrement accessible aux personnes à mobilité réduite (PMR), avec des aménagements dédiés pour garantir une expérience confortable à tous nos visiteurs de la région Provence-Alpes-Côte d'Azur.<\/li>\n<\/ul>\n\n<h3>Événements et Soirées Thématiques Toute l'Année<\/h3>\n\n<p>L'animation est permanente au Casino Barrière de Saint-Raphaël, avec un calendrier d'événements et de soirées spéciales pensé pour renouveler l'expérience de nos visiteurs tout au long de l'année. Des soirées thématiques aux tournois de poker en passant par les retransmissions sportives sur grand écran, notre établissement provençal est un lieu de vie vibrant sur la Côte d'Azur. Nous célébrons les grandes fêtes françaises — Noël, Nouvel An, Fête Nationale — avec des animations et des offres exclusives pour nos fidèles clients. Consultez régulièrement notre programme d'événements ou contactez-nous au +33 (0)4 98 111 777 pour connaître les prochaines soirées à ne pas manquer à Saint-Raphaël.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Soirées thématiques :<\/strong> Tout au long de l'année, nous organisons des soirées à thèmes variés — soirée années 80, soirée masquée, soirée provençale — pour une ambiance festive et originale dans notre casino du Var.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Événements sportifs :<\/strong> Retrouvez les grandes compétitions sportives (Coupe du Monde, Tournoi de Roland-Garros, Tour de France, championnats de football) retransmises en direct sur nos écrans géants au Café Barrière de Saint-Raphaël.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tournois et animations jeux :<\/strong> Des tournois spéciaux sur nos machines à sous et tables de jeux sont régulièrement organisés, avec des dotations attractives pour les meilleurs joueurs de la soirée à Saint-Raphaël.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Fêtes et célébrations :<\/strong> Le réveillon de Noël, la Saint-Sylvestre et les fêtes nationales sont l'occasion de soirées de gala exceptionnelles au Casino Barrière, avec gastronomie raffinée, animations live et ambiance festive unique sur la Côte d'Azur.<\/li>\n<\/ul>\n\n<h3>Horaires d'Ouverture et Accès au Casino de Saint-Raphaël<\/h3>\n\n<p>Notre casino est ouvert 365 jours par an pour accueillir les amateurs de jeux et de divertissement de Saint-Raphaël et de toute la Côte d'Azur. Les espaces de machines à sous sont accessibles dès 09h00, tandis que les tables de jeux ouvrent chaque soir à 21h00 pour une expérience nocturne premium. Le week-end, nous prolongeons nos horaires jusqu'à 04h00 du matin pour répondre aux envies de nos visiteurs les plus festifs. Notre localisation au cœur de Saint-Raphaël, à deux pas du vieux-port, en fait une étape incontournable de vos soirées sur la Riviera française.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #f5a623;\">\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Jour<\/th>\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Machines<\/th>\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Tables<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Lun – Jeu<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">09h – 03h<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">21h – 03h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Vendredi<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">09h – 04h<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">21h – 04h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Samedi<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">09h – 04h<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">21h – 04h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Dimanche<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">09h – 03h<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">21h – 03h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Restaurant<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">12h–14h<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">19h30–22h<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Le Groupe Barrière : Référence des Casinos en France<\/h3>\n\n<p>Notre casino à Saint-Raphaël fait partie du groupe Barrière, le leader incontesté de l'industrie des casinos en France avec plusieurs dizaines d'établissements répartis dans tout le pays et à l'international. Cette appartenance à un réseau d'excellence nous permet de vous offrir des standards de qualité, de sécurité et d'expérience client parmi les plus élevés du secteur gaming terrestre. La carte de fidélité Barrière est valable dans l'ensemble des établissements du groupe, vous permettant de cumuler des avantages lors de vos visites dans tous les casinos Barrière de France, de la Côte d'Azur à la côte atlantique. Rejoignez la communauté Barrière et profitez d'offres exclusives lors de vos prochaines visites à Saint-Raphaël.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Carte de fidélité Barrière :<\/strong> Cumulez des points à chaque visite dans notre casino de Saint-Raphaël et dans tous les établissements du groupe. Échangez vos points contre des avantages exclusifs : accès privilégié, offres gastronomiques, invitations VIP.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Standards de qualité groupe :<\/strong> En tant que membre du réseau Barrière, notre casino bénéficie des dernières technologies gaming, de formations continues pour notre personnel et de processus de sécurité certifiés selon les plus hauts standards de l'industrie française.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Réglementation ANJ :<\/strong> Nous opérons sous la supervision de l'Autorité Nationale des Jeux (ANJ), l'organisme français de régulation qui garantit l'équité des jeux, la protection des joueurs et la prévention du blanchiment d'argent dans tous nos établissements de la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Réseau national :<\/strong> Votre expérience au Casino Barrière de Saint-Raphaël est la porte d'entrée vers un réseau de casinos premium à travers toute la France — Paris, Cannes, Deauville, Biarritz — partageant les mêmes valeurs d'excellence et de service.<\/li>\n<\/ul>\n\n<h3>Comment Nous Contacter et Nous Rendre Visite ?<\/h3>\n\n<p>Notre casino est idéalement situé au cœur de Saint-Raphaël, facilement accessible depuis les principales villes de la Côte d'Azur. Fréquenté par les habitants du Var comme par les touristes de passage sur la Riviera française, notre établissement est une adresse incontournable du divertissement à Saint-Raphaël. Notre équipe d'accueil chaleureuse est disponible par téléphone au +33 (0)4 98 111 777 pour répondre à toutes vos questions sur les horaires, les réservations au restaurant ou les conditions d'accès à nos salles de jeux. Venez découvrir pourquoi le Casino Barrière est la première destination gaming de la Côte d'Azur.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Comment accéder au Casino Barrière de Saint-Raphaël ?",
+                            "answer": "L'entrée est gratuite pour toute personne majeure munie d'une pièce d'identité valide (CNI ou Passeport). Les clients fidèles peuvent présenter leur carte Barrière. Les mineurs et les interdits de casino ne sont pas admis. Contactez-nous au +33 (0)4 98 111 777 pour plus d'infos."
+                        },
+                        {
+                            "title": "Quels jeux sont disponibles au casino de Saint-Raphaël ?",
+                            "answer": "Nous proposons 175 machines à sous dès 0,10€, 6 jackpots progressifs jusqu'à 40 000€+, et 5 tables de jeux : roulette anglaise, blackjack, boule et Texas Ultimate Poker. Les tables ouvrent chaque soir à 21h. Les machines à sous sont accessibles dès 09h tous les jours."
+                        },
+                        {
+                            "title": "Quels sont les horaires du Casino Barrière Saint-Raphaël ?",
+                            "answer": "Nous sommes ouverts 7j\/7 : machines à sous de 09h à 03h (jusqu'à 04h les vendredis, samedis et veilles de jours fériés). Les tables de jeux ouvrent à 21h. Le restaurant Café Barrière accueille le déjeuner de 12h à 14h et le dîner de 19h30 à 22h (22h30 le week-end)."
+                        },
+                        {
+                            "title": "Le Café Barrière est-il ouvert sans jouer au casino ?",
+                            "answer": "Oui, notre Café Barrière est accessible à tous, même sans jouer. Profitez de la terrasse face au vieux-port de Saint-Raphaël pour déjeuner ou dîner. Nous accueillons aussi les groupes : 170 personnes en dîner, 200 en cocktail. Réservation recommandée au +33 (0)4 98 111 777."
+                        },
+                        {
+                            "title": "Y a-t-il des jackpots progressifs au casino de Saint-Raphaël ?",
+                            "answer": "Oui, nous proposons 6 jackpots progressifs dans notre salle de jeux, certains atteignant régulièrement plus de 40 000€. Ces jackpots s'accumulent en temps réel et sont affichés en salle. Chaque mise sur les machines éligibles contribue à faire grossir la cagnotte. Bonne chance !"
+                        },
+                        {
+                            "title": "Comment réserver pour un événement de groupe au casino ?",
+                            "answer": "Notre casino de Saint-Raphaël accueille les groupes jusqu'à 170 personnes en formule dîner et 200 en cocktail dans notre espace privatisable. Pour organiser votre séminaire, anniversaire ou soirée d'entreprise sur la Côte d'Azur, contactez notre équipe au +33 (0)4 98 111 777."
+                        },
+                        {
+                            "title": "Le casino est-il accessible aux personnes à mobilité réduite ?",
+                            "answer": "Oui, notre Casino Barrière de Saint-Raphaël est entièrement accessible aux personnes à mobilité réduite (PMR). Des aménagements spécifiques sont disponibles pour garantir un accès confortable à l'ensemble de nos espaces : salle de jeux, restaurant Café Barrière et bar. Bienvenue à tous !"
+                        },
+                        {
+                            "title": "Puis-je cumuler des points fidélité Barrière à Saint-Raphaël ?",
+                            "answer": "Absolument ! Notre casino fait partie du réseau Barrière. Votre carte de fidélité est valable dans tous les établissements du groupe en France. Cumulez des points lors de vos visites à Saint-Raphaël et échangez-les contre des avantages exclusifs : accès VIP, offres gastronomiques et invitations spéciales."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
